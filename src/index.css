@@ -1,0 +1,38 @@
+.logo-header{
+	margin:40px 0 20px 0;
+	text-align: center;
+}
+.logo-header img{
+	width:100px;
+	height:100px;
+}
+.am-tab-bar-wrap{
+	position: fixed;
+	bottom: 0;
+	width:100%;
+}
+.fix-header .am-navbar{
+	position:fixed;
+	top:0;
+	width:100%;
+}
+.page-content{
+	padding: 45px 5px;
+}
+#chat-page .am-grid-icon{
+	display: none;
+}
+#chat-page .am-grid-text{
+	margin-top: 0;
+}
+
+#chat-page .chat-me .am-list-extra{
+	flex-basis:auto;
+}
+#chat-page .chat-me .am-list-content{
+	padding-right: 15px;
+	text-align:right;
+}
+.stick-footer{
+	z-index:10;
+}
